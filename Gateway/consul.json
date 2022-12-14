@@ -1,0 +1,7 @@
+{
+  "consul": {
+    "discovery": {
+      "serviceName": "Gateway"
+    } 
+  }
+}
